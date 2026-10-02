@@ -23,7 +23,7 @@ export default function BlogPage() {
               <img 
                 alt="Behind the scenes at the Italian mill" 
                 className="w-full h-full object-cover filter grayscale contrast-105 group-hover:scale-105 transition-all duration-700" 
-                src="/images/02_Cascading_Cowl_083164.png" 
+                src="/velora/images/02_Cascading_Cowl_083164.png" 
               />
             </div>
             <div className="w-full md:w-1/2 space-y-4">
@@ -53,19 +53,19 @@ export default function BlogPage() {
             {
               title: "Sourcing Giza Cotton",
               date: "February 12, 2026",
-              img: "/images/Slim_Ribbed_Cotton_L_785833.png",
+              img: "/velora/images/Slim_Ribbed_Cotton_L_785833.png",
               desc: "Why we source our extra-long staple cotton exclusively from the Nile Delta."
             },
             {
               title: "The Zero-Waste Studio",
               date: "January 28, 2026",
-              img: "/images/Layered_Collar_Cotto_620461.png",
+              img: "/velora/images/Layered_Collar_Cotto_620461.png",
               desc: "Our commitment to minimal waste in pattern making and cutting."
             },
             {
               title: "Caring for Cashmere",
               date: "December 15, 2025",
-              img: "/images/The_Inverness_Fine_C_082468.jpg",
+              img: "/velora/images/The_Inverness_Fine_C_082468.jpg",
               desc: "A comprehensive guide to washing and storing your fine knitwear."
             }
           ].map((post, idx) => (

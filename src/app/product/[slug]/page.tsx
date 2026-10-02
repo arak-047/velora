@@ -16,9 +16,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 007",
     color: "#2C1D18",
     images: {
-      primary: "/images/Layered_Collar_Cotto_620461.png",
-      fluid: "/images/Layered_Collar_Cotto_667942.png",
-      reverse: "/images/Reverse_tailored_con_488252.png"
+      primary: "/velora/images/Layered_Collar_Cotto_620461.png",
+      fluid: "/velora/images/Layered_Collar_Cotto_667942.png",
+      reverse: "/velora/images/Reverse_tailored_con_488252.png"
     },
     dossier: [
       {
@@ -54,9 +54,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 001",
     color: "#E5E2DE",
     images: {
-      primary: "/images/Slim_Ribbed_Cotton_L_785833.png",
-      fluid: "/images/Slim_Ribbed_Cotton_L_966551.png",
-      reverse: "/images/Slim_Ribbed_Cotton_L_773722.png"
+      primary: "/velora/images/Slim_Ribbed_Cotton_L_785833.png",
+      fluid: "/velora/images/Slim_Ribbed_Cotton_L_966551.png",
+      reverse: "/velora/images/Slim_Ribbed_Cotton_L_773722.png"
     },
     dossier: [
       {
@@ -92,9 +92,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 003",
     color: "#181818",
     images: {
-      primary: "/images/The_Inverness_Fine_C_082468.jpg",
-      fluid: "/images/The_Inverness_Fine_C_219230.png",
-      reverse: "/images/The_Inverness_Flat_P_077893.png"
+      primary: "/velora/images/The_Inverness_Fine_C_082468.jpg",
+      fluid: "/velora/images/The_Inverness_Fine_C_219230.png",
+      reverse: "/velora/images/The_Inverness_Flat_P_077893.png"
     },
     dossier: [
       {
@@ -131,9 +131,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 003",
     color: "#202020",
     images: {
-      primary: "/images/The_Dera_Lightweight_459737.png",
-      fluid: "/images/The_Dera_Lightweight_397170.png",
-      reverse: "/images/The_Dera_Lightweight_459737.png"
+      primary: "/velora/images/The_Dera_Lightweight_459737.png",
+      fluid: "/velora/images/The_Dera_Lightweight_397170.png",
+      reverse: "/velora/images/The_Dera_Lightweight_459737.png"
     },
     dossier: [
       { title: "FABRIC", text: "Pure dry-touch linen jersey for relaxed drape." },
@@ -154,9 +154,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 004",
     color: "#0F0F0F",
     images: {
-      primary: "/images/The_Denzel_Square_875922.png",
-      fluid: "/images/The_Denzel_Square_969111.png",
-      reverse: "/images/The_Denzel_Square_875922.png"
+      primary: "/velora/images/The_Denzel_Square_875922.png",
+      fluid: "/velora/images/The_Denzel_Square_969111.png",
+      reverse: "/velora/images/The_Denzel_Square_875922.png"
     },
     dossier: [
       { title: "FABRIC", text: "Fine Milano rib knit." },
@@ -177,9 +177,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 005",
     color: "#B2B1AE",
     images: {
-      primary: "/images/The_Serata_Seamed_Te_590205.png",
-      fluid: "/images/The_Serata_Seamed_Te_590205.png",
-      reverse: "/images/The_Serata_Seamed_Te_590205.png"
+      primary: "/velora/images/The_Serata_Seamed_Te_590205.png",
+      fluid: "/velora/images/The_Serata_Seamed_Te_590205.png",
+      reverse: "/velora/images/The_Serata_Seamed_Te_590205.png"
     },
     dossier: [
       { title: "FABRIC", text: "Compact modal jersey." },
@@ -200,9 +200,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 006",
     color: "#C99C8E",
     images: {
-      primary: "/images/The_Stormie_Ribbed_I_535218.png",
-      fluid: "/images/The_Stormie_Ribbed_I_535218.png",
-      reverse: "/images/The_Stormie_Ribbed_I_535218.png"
+      primary: "/velora/images/The_Stormie_Ribbed_I_535218.png",
+      fluid: "/velora/images/The_Stormie_Ribbed_I_535218.png",
+      reverse: "/velora/images/The_Stormie_Ribbed_I_535218.png"
     },
     dossier: [
       { title: "FABRIC", text: "Ergonomic heavyweight rib." },
@@ -223,9 +223,9 @@ const productData = {
     paletteCode: "PERMANENT CODE 007",
     color: "#A25A47",
     images: {
-      primary: "/images/The_Kelly_Square_142145.png",
-      fluid: "/images/The_Kelly_Square_142145.png",
-      reverse: "/images/The_Kelly_Square_142145.png"
+      primary: "/velora/images/The_Kelly_Square_142145.png",
+      fluid: "/velora/images/The_Kelly_Square_142145.png",
+      reverse: "/velora/images/The_Kelly_Square_142145.png"
     },
     dossier: [
       { title: "FABRIC", text: "Double-layered compact jersey." },
@@ -260,9 +260,9 @@ export default function ProductPage({ params }: { params: Promise<{ slug: string
     paletteCode: "PERMANENT CODE",
     color: "#2C1D18",
     images: {
-      primary: "/images/02_Cascading_Cowl_083164.png",
-      fluid: "/images/01_Minimal_Ribbed_Ta_668700.png",
-      reverse: "/images/Reverse_tailored_con_488252.png"
+      primary: "/velora/images/02_Cascading_Cowl_083164.png",
+      fluid: "/velora/images/01_Minimal_Ribbed_Ta_668700.png",
+      reverse: "/velora/images/Reverse_tailored_con_488252.png"
     },
     dossier: [
       {
@@ -524,7 +524,7 @@ export default function ProductPage({ params }: { params: Promise<{ slug: string
         <div className="grid grid-cols-1 md:grid-cols-3 gap-gutter lg:gap-gutter-desktop">
           <div className="bg-surface-container-lowest p-space-md flex flex-col justify-between group cursor-pointer">
             <div className="relative aspect-[4/5] bg-surface-container overflow-hidden mb-space-md">
-              <img alt="Fluid Wool Trousers" className="w-full h-full object-cover object-bottom transition-transform duration-700 ease-out group-hover:scale-105" src="/images/Fluid_Wool_Trousers__612285.png" />
+              <img alt="Fluid Wool Trousers" className="w-full h-full object-cover object-bottom transition-transform duration-700 ease-out group-hover:scale-105" src="/velora/images/Fluid_Wool_Trousers__612285.png" />
               <div className="absolute top-3 left-3 bg-surface/90 px-space-xs py-space-xs">
                 <span className="font-label-uppercase text-[10px] tracking-wider text-on-surface">SHOWN IN LOOK</span>
               </div>
@@ -539,7 +539,7 @@ export default function ProductPage({ params }: { params: Promise<{ slug: string
           </div>
           <div className="bg-surface-container-lowest p-space-md flex flex-col justify-between group cursor-pointer">
             <div className="relative aspect-[4/5] bg-surface-container overflow-hidden mb-space-md">
-              <img alt="Tortoise Optical" className="w-full h-full object-cover object-top transition-transform duration-700 ease-out group-hover:scale-105" src="/images/Tortoise_Optical_Ace_122462.png" />
+              <img alt="Tortoise Optical" className="w-full h-full object-cover object-top transition-transform duration-700 ease-out group-hover:scale-105" src="/velora/images/Tortoise_Optical_Ace_122462.png" />
               <div className="absolute top-3 left-3 bg-surface/90 px-space-xs py-space-xs">
                 <span className="font-label-uppercase text-[10px] tracking-wider text-on-surface">ACCOMPANIMENT</span>
               </div>
@@ -554,7 +554,7 @@ export default function ProductPage({ params }: { params: Promise<{ slug: string
           </div>
           <div className="bg-surface-container-lowest p-space-md flex flex-col justify-between group cursor-pointer">
             <div className="relative aspect-[4/5] bg-surface-container overflow-hidden mb-space-md">
-              <img alt="Overcoat" className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-105" src="/images/Archival_Tailored_Ov_498441.png" />
+              <img alt="Overcoat" className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-105" src="/velora/images/Archival_Tailored_Ov_498441.png" />
               <div className="absolute top-3 left-3 bg-surface/90 px-space-xs py-space-xs">
                 <span className="font-label-uppercase text-[10px] tracking-wider text-on-surface">OUTERWEAR</span>
               </div>

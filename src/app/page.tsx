@@ -55,7 +55,7 @@ export default function Home() {
               <img
                 alt="SS25 Sleeveless Archetype Campaign - High-neck ribbed top"
                 className="w-full h-full object-cover object-center grayscale contrast-[1.04] hover:grayscale-0 transition-all duration-700 ease-out"
-                src="/images/01_Minimal_Ribbed_Ta_668700.png"
+                src="/velora/images/01_Minimal_Ribbed_Ta_668700.png"
               />
               <div className="absolute bottom-4 left-4 bg-surface/90 backdrop-blur-sm px-3 py-1.5 font-label-uppercase text-[9px] uppercase tracking-[0.2em] text-primary">
                 Lightweight Ribbed Knit In Camel
@@ -100,7 +100,7 @@ export default function Home() {
               <img
                 alt="Layered Collar Cotton Top"
                 className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-[1.02]"
-                src="/images/Layered_Collar_Cotto_620461.png"
+                src="/velora/images/Layered_Collar_Cotto_620461.png"
               />
               <div className="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               <div className="absolute bottom-4 inset-x-4 flex justify-between items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -142,7 +142,7 @@ export default function Home() {
               <img
                 alt="Slim Ribbed Cotton Long-Sleeved Top"
                 className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-[1.02]"
-                src="/images/Slim_Ribbed_Cotton_L_785833.png"
+                src="/velora/images/Slim_Ribbed_Cotton_L_785833.png"
               />
               <div className="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               <div className="absolute bottom-4 inset-x-4 flex justify-between items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -184,7 +184,7 @@ export default function Home() {
               <img
                 alt="The Inverness Fine-Gauge Crew Knit"
                 className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-[1.02]"
-                src="/images/The_Inverness_Fine_C_082468.jpg"
+                src="/velora/images/The_Inverness_Fine_C_082468.jpg"
               />
               <div className="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               <div className="absolute bottom-4 inset-x-4 flex justify-between items-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
@@ -277,7 +277,7 @@ export default function Home() {
                 <img
                   alt="Model in black bandeau and neutral tailoring"
                   className="w-full h-full object-cover object-top"
-                  src="/images/Model_styled_in_The__523406.png"
+                  src="/velora/images/Model_styled_in_The__523406.png"
                 />
                 <div className="absolute top-6 right-6 bg-surface/95 px-4 py-3 border border-secondary-container text-right">
                   <span className="font-label-uppercase text-[9px] uppercase tracking-[0.2em] text-secondary block">
@@ -387,7 +387,7 @@ export default function Home() {
               <img
                 alt="Velora Salon Bespoke Fittings"
                 className="w-full h-full object-cover object-center filter brightness-90 contrast-105"
-                src="/images/02_Cascading_Cowl_083164.png"
+                src="/velora/images/02_Cascading_Cowl_083164.png"
               />
             </div>
             {/* Salon Info Half */}

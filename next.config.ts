@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // If your GitHub Pages URL is https://arak-047.github.io/velora, uncomment the line below:
-  // basePath: '/velora',
+  basePath: '/velora',
 };
 
 export default nextConfig;

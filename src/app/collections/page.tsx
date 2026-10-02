@@ -12,8 +12,8 @@ const products = [
     category: "knits ribbed",
     desc: "100% Giza Ribbed Cotton • Fine Japanese gauge",
     images: {
-      primary: "/images/Slim_Ribbed_Cotton_L_785833.png",
-      hover: "/images/Slim_Ribbed_Cotton_L_966551.png"
+      primary: "/velora/images/Slim_Ribbed_Cotton_L_785833.png",
+      hover: "/velora/images/Slim_Ribbed_Cotton_L_966551.png"
     },
     colors: ["#E5E2DE", "#2A1D1A", "#111111"],
     colorText: "3 Colors",
@@ -27,8 +27,8 @@ const products = [
     category: "knits structured",
     desc: "Fine mercerized cotton • Dual-tone collar insert",
     images: {
-      primary: "/images/Layered_Collar_Cotto_620461.png",
-      hover: "/images/Layered_Collar_Cotto_667942.png"
+      primary: "/velora/images/Layered_Collar_Cotto_620461.png",
+      hover: "/velora/images/Layered_Collar_Cotto_667942.png"
     },
     colors: ["#3B2820", "#FFFFFF"],
     colorText: "Dual Finish",
@@ -42,8 +42,8 @@ const products = [
     category: "knits",
     desc: "Pure dry-touch linen jersey • Relaxed drape",
     images: {
-      primary: "/images/The_Dera_Lightweight_459737.png",
-      hover: "/images/The_Dera_Lightweight_397170.png"
+      primary: "/velora/images/The_Dera_Lightweight_459737.png",
+      hover: "/velora/images/The_Dera_Lightweight_397170.png"
     },
     colors: ["#202020", "#5D6366"],
     colorText: "2 Shades",
@@ -57,8 +57,8 @@ const products = [
     category: "camisoles ribbed",
     desc: "Fine Milano rib knit • Crisp geometric collar line",
     images: {
-      primary: "/images/The_Denzel_Square_875922.png",
-      hover: "/images/The_Denzel_Square_969111.png"
+      primary: "/velora/images/The_Denzel_Square_875922.png",
+      hover: "/velora/images/The_Denzel_Square_969111.png"
     },
     colors: ["#0F0F0F", "#FAF8F5"],
     colorText: "2 Palettes",
@@ -72,8 +72,8 @@ const products = [
     category: "knits",
     desc: "18-gauge silk-cashmere blend • Seamless whole-garment",
     images: {
-      primary: "/images/The_Inverness_Fine_C_082468.jpg",
-      hover: "/images/The_Inverness_Fine_C_219230.png"
+      primary: "/velora/images/The_Inverness_Fine_C_082468.jpg",
+      hover: "/velora/images/The_Inverness_Fine_C_219230.png"
     },
     colors: ["#181818", "#F3EFE9"],
     colorText: "Silk Blend",
@@ -87,8 +87,8 @@ const products = [
     category: "structured",
     desc: "Sculptural back seam construction • Compact modal",
     images: {
-      primary: "/images/The_Serata_Seamed_Te_590205.png",
-      hover: "/images/The_Serata_Seamed_Te_590205.png" // single image mapped
+      primary: "/velora/images/The_Serata_Seamed_Te_590205.png",
+      hover: "/velora/images/The_Serata_Seamed_Te_590205.png" // single image mapped
     },
     colors: ["#B2B1AE", "#7D7C79"],
     colorText: "2 Tonals",
@@ -103,8 +103,8 @@ const products = [
     category: "ribbed camisoles",
     desc: "Contoured interior bustier support • Ergonomic rib",
     images: {
-      primary: "/images/The_Stormie_Ribbed_I_535218.png",
-      hover: "/images/The_Stormie_Ribbed_I_535218.png"
+      primary: "/velora/images/The_Stormie_Ribbed_I_535218.png",
+      hover: "/velora/images/The_Stormie_Ribbed_I_535218.png"
     },
     colors: ["#5D4638", "#C99C8E", "#EDEBE6", "#B2997D"],
     colorText: "4 Colors",
@@ -118,8 +118,8 @@ const products = [
     category: "structured camisoles",
     desc: "Double-layered compact jersey • Self-lined band",
     images: {
-      primary: "/images/The_Kelly_Square_142145.png",
-      hover: "/images/The_Kelly_Square_142145.png"
+      primary: "/velora/images/The_Kelly_Square_142145.png",
+      hover: "/velora/images/The_Kelly_Square_142145.png"
     },
     colors: ["#A25A47", "#E5DFD7", "#39393A", "#151515"],
     colorText: "4 Colors",
