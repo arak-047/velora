@@ -8,6 +8,7 @@ export function generateStaticParams() {
     "the-serata-seamed-tee",
     "the-stormie-ribbed-in-built-tank",
     "the-kelly-square-cut",
+    "danel-tank-top",
     "generic-product"
   ];
   return slugs.map((slug) => ({

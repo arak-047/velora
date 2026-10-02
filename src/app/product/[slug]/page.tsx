@@ -236,9 +236,31 @@ const productData = {
     construction: { main: "Clean cropped lines.", secondary: "Self-lined for opacity." }
   },
 
+  "danel-tank-top": {
+    name: "Danel Tank Top",
+    price: "€490,00",
+    category: "CAMISOLES",
+    spec: "1421296",
+    edition: "NO. 1421296-008",
+    units: "120 units crafted",
+    palette: "Ivory",
+    paletteCode: "PERMANENT CODE 008",
+    color: "#FFFFF0",
+    images: {
+      primary: "/velora/images/danel_tank_top_2.webp",
+      fluid: "/velora/images/danel_tank_top_1.webp",
+      reverse: "/velora/images/danel_tank_top_3.webp"
+    },
+    dossier: [
+      { title: "FABRIC", text: "70% Wool, 30% Silk." },
+      { title: "DETAILS", text: "Round neckline and ribbed trim at neckline and armholes." },
+      { title: "FIT", text: "This style is fitted to the body." }
+    ],
+    composition: { main: "Wool and silk fibers knit seamlessly for a clean and comfortable second-skin finish with natural stretch.", secondary: "Made in Italy." },
+    construction: { main: "Due to the delicate nature of this fabric, only the use of professional dry cleaning practices should be implemented.", secondary: "If required, this item may be ironed at a maximum temperature of 110°C. Any washing, tumble drying, or use of bleach should be avoided." }
+  },
+
 };
-
-
 
 export default function ProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = use(params);

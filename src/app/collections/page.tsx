@@ -124,6 +124,22 @@ const products = [
     colors: ["#A25A47", "#E5DFD7", "#39393A", "#151515"],
     colorText: "4 Colors",
     archetype: "08"
+  },
+  {
+    id: "danel-tank-top",
+    slug: "danel-tank-top",
+    name: "Danel Tank Top",
+    price: 490,
+    category: "camisoles",
+    desc: "Lightweight jersey • Slim fit",
+    images: {
+      primary: "/velora/images/danel_tank_top_2.webp",
+      hover: "/velora/images/danel_tank_top_3.webp"
+    },
+    colors: ["#000000", "#FFFFF0"],
+    colorText: "2 Colors",
+    archetype: "09",
+    overlay: "NEW ARRIVAL"
   }
 ];
 
