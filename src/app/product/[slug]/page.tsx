@@ -238,6 +238,8 @@ const productData = {
 
 };
 
+
+
 export default function ProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = use(params);
   const product = productData[resolvedParams.slug as keyof typeof productData];
