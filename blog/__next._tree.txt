@@ -6,4 +6,4 @@
 :HL["/velora/images/Slim_Ribbed_Cotton_L_785833.png","image"]
 :HL["/velora/images/Layered_Collar_Cotto_620461.png","image"]
 :HL["/velora/images/The_Inverness_Fine_C_082468.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"jMYI6JoQrkCyN1Mqxzk0d"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Fw1pTzu9MiE07SmXCigtA"}
