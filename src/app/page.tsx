@@ -54,7 +54,7 @@ export default function Home() {
             <div className="relative w-full aspect-[4/5] bg-surface-container overflow-hidden group">
               <img
                 alt="SS25 Sleeveless Archetype Campaign - High-neck ribbed top"
-                className="w-full h-full object-cover object-center grayscale contrast-[1.04] hover:grayscale-0 transition-all duration-700 ease-out"
+                className="w-full h-full object-cover object-center grayscale contrast-[1.04] hover:grayscale-0 animate-color-reveal-mobile transition-all duration-700 ease-out"
                 src="/velora/images/01_Minimal_Ribbed_Ta_668700.png"
               />
               <div className="absolute bottom-4 left-4 bg-surface/90 backdrop-blur-sm px-3 py-1.5 font-label-uppercase text-[9px] uppercase tracking-[0.2em] text-primary">

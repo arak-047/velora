@@ -22,7 +22,7 @@ export default function BlogPage() {
             <div className="w-full md:w-1/2 aspect-[4/3] bg-surface-container overflow-hidden">
               <img 
                 alt="Behind the scenes at the Italian mill" 
-                className="w-full h-full object-cover filter grayscale contrast-105 group-hover:scale-105 transition-all duration-700" 
+                className="w-full h-full object-cover filter grayscale contrast-105 group-hover:scale-105 animate-color-reveal-mobile transition-all duration-700" 
                 src="/velora/images/02_Cascading_Cowl_083164.png" 
               />
             </div>
@@ -73,7 +73,7 @@ export default function BlogPage() {
               <Link href="#" className="relative w-full aspect-[4/5] overflow-hidden bg-surface-container">
                 <img 
                   alt={post.title} 
-                  className="w-full h-full object-cover filter grayscale contrast-105 group-hover:scale-105 transition-all duration-700" 
+                  className="w-full h-full object-cover filter grayscale contrast-105 group-hover:scale-105 animate-color-reveal-mobile transition-all duration-700" 
                   src={post.img} 
                 />
               </Link>
